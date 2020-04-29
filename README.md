@@ -1,5 +1,10 @@
 # Plan-share
-##学习工作总结
+##学习计划
+
+2020.4.29
+plan:
+1.run learn2branch 第二步和第三步
+2.调试clusternet
 
 2020.4.28
 plan:  
